@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+
+/* @import './app/app.component.css'; */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+@import 'node_modules/bootstrap/dist/css/bootstrap.min.css';
+@import 'node_modules/font-awesome/css/font-awesome.min.css';
+/* @import 'node_modules/font-awesome/css/custom.css';  */
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700');
+
+
